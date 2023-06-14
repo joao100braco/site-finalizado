@@ -1,0 +1,57 @@
+
+.cabeçalho{
+    background-color: #5d82e9;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+header{
+    background-image: linear-gradient(#21E157);
+    background-color: #21E157;
+}
+
+.cabeçalho-imagem{
+    width: 8%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block
+
+
+}
+.TPG-imagem{
+    width: 25%;
+}
+
+.tropa-puramente-grandiosa
+{
+    background-image: linear-gradient(#21E157,#2157E1);
+    color: rgb(1, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 150px 0;
+} 
+
+.tropa-puramente-grandiosa-div-conteudo{
+    width: 35%;
+}
+
+.tropa-puramente-grandiosa-div-conteudo{
+    padding: 35px 0;
+}
+
+
+
+.tropa-final{
+    width: 100%;
+}
+.rodape{
+    background-color: black;
+}
+.rodape-imagem{
+    height: 20px;
+}
